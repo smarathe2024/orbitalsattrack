@@ -54,7 +54,7 @@ A real-time telemetry feed and network status overview:
 - **Styling**: Tailwind CSS 4, Framer Motion
 - **Visualization**: react-globe.gl, Three.js
 - **Orbital Physics**: satellite.js (SGP4/SDP4)
-- **Mobile Bridge**: Capacitor 8
+- **Mobile Bridge**: Capacitor 7
 - **Icons**: Lucide React
 
 ---
