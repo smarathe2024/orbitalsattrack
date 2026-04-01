@@ -37,12 +37,18 @@ jobs:
       - name: Sync Capacitor
         run: npx cap sync android
 
-      - name: Build Android APK
+      - name: Setup Gradle
         uses: gradle/actions/setup-gradle@v4
         with:
           gradle-version: 8.11.1
           validate-wrappers: false
-          arguments: -p android assembleDebug
+
+      - name: Make Gradlew Executable
+        run: chmod +x android/gradlew
+
+      - name: Build Android APK
+        run: ./gradlew assembleDebug
+        working-directory: android
 
       - name: Upload APK
         uses: actions/upload-artifact@v4
