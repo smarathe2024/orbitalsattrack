@@ -2,8 +2,6 @@
 
 **Orbital Satellite Tracker** is a high-fidelity, real-time satellite tracking and orbital communication simulation platform. Built with a "Brutalist-Tech" aesthetic, it provides an immersive experience for monitoring global satellite networks and simulating telemetry downlinks.
 
-![Orbital Satellite Tracker Banner](https://picsum.photos/seed/orbital-banner/1200/400)
-
 ---
 
 ## 🚀 Key Features
@@ -42,9 +40,10 @@ A real-time telemetry feed and network status overview:
 
 ## 📸 Screenshots
 
-| 🌍 Global View | 📂 Satellite Dossier | 💻 Command Terminal |
-| :---: | :---: | :---: |
-| ![Globe View](https://picsum.photos/seed/globe-view/400/300) | ![Dossier View](https://picsum.photos/seed/dossier-view/400/300) | ![Terminal View](https://picsum.photos/seed/terminal-view/400/300) |
+The application features a high-fidelity 3D globe and a brutalist command terminal. You can view the live application at the following links:
+
+- **Live Development Preview**: [App URL](https://ais-dev-rpnz2zozjlnkh72so5tfdb-575635219348.asia-east1.run.app)
+- **Shared Application**: [Shared App URL](https://ais-pre-rpnz2zozjlnkh72so5tfdb-575635219348.asia-east1.run.app)
 
 ---
 
