@@ -1,0 +1,5 @@
+{
+  "name": "Orbital Satellite Tracker",
+  "description": "Real-time satellite tracking and orbital communication simulation.",
+  "requestFramePermissions": []
+}
